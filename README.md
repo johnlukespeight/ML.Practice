@@ -1,1 +1,1 @@
-# StocksML
+# ML Practice
